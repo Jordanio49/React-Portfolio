@@ -4,10 +4,14 @@ import aboutMeImage from "../../assets/images/profile-pic.jpg";
 function About() {
     return (
         <section className='my-5'>
+            <div className="center">
             <h1 id='about'>About Me</h1>
+            </div>
+            <div className="center">
             <img src={aboutMeImage} className="my-2" style={{ height: "25%", width: "25%" }} alt="Jordan Thomas" />
+            </div>
             <div className='my-2'>
-                <p>
+                <p className="center" >
                     I am a full stack web developer that is looking forward to creating intuitive user experiences on the web.
                     I recently completed a full stack web development course at UC Davis
                     and am excited to start using the skills I have garnered throughout the program.

@@ -6,13 +6,13 @@ function Resume() {
             <div className="center">
                 <h1>My Resume</h1>
             </div>
-            <div>
+            <div className="center">
                 <a href={require("../../assets/resume/My Resume.pdf")} download>
-                    <h3>Resume PDF</h3>
+                    <h3 id="resume-pdf">Resume PDF</h3>
                 </a>
             </div>
             <div>
-                <h4>Proficiencies</h4>
+                <h5 className="center" >Proficiencies</h5>
                 <ol>
                     <li>HTML5</li>
                     <li>CSS</li>
