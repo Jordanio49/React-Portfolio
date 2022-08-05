@@ -10,7 +10,7 @@ function Footer() {
             </div>
             <div>
                 <a href='https://www.linkedin.com/in/jordan-thomas-b405379a/' target='_blank'>
-                <img src='../../assets/images/linkedIn.jpg' alt='LinkedIn'></img>
+                <img src='../../assets/images/linkedin.jpg' alt='LinkedIn'></img>
                 </a>
             </div>
             <div>
