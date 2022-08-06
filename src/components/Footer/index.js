@@ -10,7 +10,7 @@ function Footer() {
             </div>
             <div>
                 <a href='https://www.linkedin.com/in/jordan-thomas-b405379a/' target='_blank'>
-                <img src={require('../../assets/images/linkedin.jpg')} alt='LinkedIn' style={{ height: 50, width: 50}}></img>
+                <img src={require('../../assets/images/linkedIn.jpg')} alt='LinkedIn' style={{ height: 50, width: 50}}></img>
                 </a>
             </div>
             <div>
