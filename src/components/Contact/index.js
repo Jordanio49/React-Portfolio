@@ -52,7 +52,7 @@ function Contact() {
                         <input type='text' defaultValue={name} onBlur={handleBlank} name='Name' />
                     </div>
                     <div>
-                        <label htmlFor='email'>Email address:</label>
+                        <label htmlFor='email'>Email Address:</label>
                         <input type='email' defaultValue={email} onBlur={handleChange} name='email' />
                     </div>
                     <div>
