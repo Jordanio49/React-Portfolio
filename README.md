@@ -14,7 +14,7 @@
   To install clone the repository and open in vs code. This application requires bootstrap and react. After cloning the repository run npm install to install the dependencies. Finally type npm start in the terminal and the page will open upon server start.
 
   ## Usage Information
-  This app is deployed via Github Pages which allows the user to access it by going to [this link](https://jordan-thomas-budget-tracker.herokuapp.com/).
+  This app is deployed via Github Pages which allows the user to access it by going to [this link](https://jordanio49.github.io/React-Portfolio/).
 
   ## Contribution Guidelines
   Jordan Thomas is the main contributor to this application. There are no extra contributions necessary, but feel free to adjust your clone of it for your specific needs. 
