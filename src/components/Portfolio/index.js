@@ -44,12 +44,12 @@ function Portfolio() {
             github: 'https://github.com/Jordanio49/work-day-schedule',
         },
         {
-            name: 'Tech Blog',
-            description: 'Tech Blog allows the user to signup or login. Then they can create posts and comment on posts. They can also edit and delete posts as needed',
-            image: 'tech-blog.png',
-            technologies: ['HTML/CSS', 'JavaScript', 'Bcrypt', 'Express', 'Sequelize', 'Dotenv', 'Handlebars'],
-            deployed: 'https://jordan-thomas-tech-blog.herokuapp.com/login',
-            github: 'https://github.com/Jordanio49/Tech-Blog',
+            name: 'Tutor Coin',
+            description: 'Tutor Coin is a site that students can use to find tutors at a price they can afford. Tutors are able to bid on student requests and help them learn more effectively.',
+            image: 'tutor-coin.png',
+            technologies: ['MongoDB', 'GraphQL', 'Express', 'React', 'Node.js', 'Queries and Mutations', 'JWT', 'HTML', 'CSS', 'Javascript', 'Materialize', 'Dotenv'],
+            deployed: 'https://tutor-coin.herokuapp.com/',
+            github: 'https://github.com/mpeterson56/Tutor-Coin',
         },
     ];
 
