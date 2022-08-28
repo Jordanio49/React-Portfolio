@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.8ba2076b.css",
+    "main.js": "/React-Portfolio/static/js/main.80b33928.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/find-pods-fast.png": "/React-Portfolio/static/media/find-pods-fast.3c2e8beda21ebdcf20a6.png",
+    "static/media/budget-tracker.png": "/React-Portfolio/static/media/budget-tracker.67c488f7f42d8f6ec114.png",
+    "static/media/workday-schedule.png": "/React-Portfolio/static/media/workday-schedule.063c36b5978ba48b1453.png",
+    "static/media/profile-pic.jpg": "/React-Portfolio/static/media/profile-pic.5b9c31d3f4f9106599ce.jpg",
+    "static/media/note-taker.png": "/React-Portfolio/static/media/note-taker.17aa636cd8c37848a18b.png",
+    "static/media/tutor-coin.png": "/React-Portfolio/static/media/tutor-coin.dac90dd1bfbe19df36d5.png",
+    "static/media/My Resume.pdf": "/React-Portfolio/static/media/My Resume.04f2079cc75a16fc0902.pdf",
+    "static/media/just-recipes.png": "/React-Portfolio/static/media/just-recipes.e043a8480432c498534a.png",
+    "static/media/stackoverflow.jpg": "/React-Portfolio/static/media/stackoverflow.0123b8df35f2e7d20bc8.jpg",
+    "static/media/github.png": "/React-Portfolio/static/media/github.fc497857196dc743cd9d.png",
+    "static/media/tech-blog.png": "/React-Portfolio/static/media/tech-blog.07511ae6fc99b6403ffd.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.8ba2076b.css.map": "/React-Portfolio/static/css/main.8ba2076b.css.map",
+    "main.80b33928.js.map": "/React-Portfolio/static/js/main.80b33928.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ba2076b.css",
+    "static/js/main.80b33928.js"
+  ]
+}
